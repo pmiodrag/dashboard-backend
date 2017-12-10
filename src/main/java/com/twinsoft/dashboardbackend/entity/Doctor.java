@@ -1,4 +1,4 @@
-package com.twinsoft.domain;
+package com.twinsoft.dashboardbackend.entity;
 
 import java.io.Serializable;
 import java.sql.Date;
